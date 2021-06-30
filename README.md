@@ -31,9 +31,10 @@ Copy downloaded models to the directory 'Results/'.
 
 ## Traning and Evaluation
 To evaluate our pre-trained model, run the below commands.
-> sh Scripts/MR_motion_magnitude.sh
-
-> sh Scripts/MR_motion_complex.sh
+```
+sh Scripts/MR_motion_magnitude.sh
+sh Scripts/MR_motion_complex.sh
+```
 
 To train the model, add the '--training' option in the script files.
 
