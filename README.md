@@ -10,9 +10,9 @@ This repository is the official tensorflow implementation of "Unpaired MR Motion
 The code is implented in Python 3.5 with below packages.
 ```
 tensorflow-gpu      1.13.1
-numpy     1.16.4
-scipy     1.1.0
-tqdm      4.48.2
+numpy               1.16.4
+scipy               1.1.0
+tqdm                4.48.2
 ```
 
 ## Datasets
