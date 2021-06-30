@@ -1,4 +1,4 @@
-python3 ../main.py \
+python3 main.py \
 --N 15 \
 --R 3 \
 --augmentation \
