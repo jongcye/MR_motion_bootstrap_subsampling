@@ -26,7 +26,8 @@ https://fastmri.org/
 Examples of HCP and FastMRI data for the inference exist in the directory 'Data/Magnitude/test' and 'Data/Complex/test'.
 
 ## Pre-trained Models
-You can download the pre-trained models from the [link](https://drive.google.com/drive/folders/1S4P6luYkipBQXHy4Vgbmpy-kSpFP2Mxv?usp=sharing)
+You can download the pre-trained models from the [link](https://drive.google.com/drive/folders/1S4P6luYkipBQXHy4Vgbmpy-kSpFP2Mxv?usp=sharing).
+
 Copy downloaded models to the directory 'Results/'.
 
 ## Traning and Evaluation
