@@ -1,0 +1,23 @@
+python3 ../main.py \
+--N 15 \
+--R 4 \
+--augmentation \
+--batch_size 1 \
+--beta1 0.5 \
+--beta2 0.999 \
+--data_root '../Data/Complex' \
+--decay_epoch 100 \
+--disp_div_N 100 \
+--experiment_name 'MR_motion_complex' \
+--gpu_ids '0' \
+--init_lr 1e-4 \
+--lambda_cycle 1 \
+--nC 30 \
+--nX 320 \
+--nY 320 \
+--ndf 64 \
+--ngf 64 \
+--num_epoch 200 \
+--pool_size 50 \
+--save_epoch 10 \
+--save_path '../Results'
